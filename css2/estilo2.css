@@ -1,0 +1,153 @@
+body {
+	margin:0;
+	padding:0;
+	font-family: 'Arial', serif, helvetica,courier;
+
+}
+
+#menu {
+	background-color: #ffffff;
+	color: #000000;
+	list-style: none;
+	text-align: right;
+	padding:20px 0 0 0;
+}
+
+#menu li {
+	display: inline-block;
+	padding: 0 25px 0 25px;
+	font-size: 14px;
+}
+
+#menu li a {
+	text-decoration: none;
+	color: #000000;
+
+}
+
+#menu li a:hover{
+	color: #c1c1c1;
+
+}
+
+.logo {
+	color: #000000;
+	float: left;
+	padding-left: 18px;
+	font-style: oblique;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.logo a {
+	text-decoration:none;
+	color: black;
+}
+
+.banner {
+	width: 100%;
+	display: block;
+}
+
+.banner .banner-image{
+	width: 100%;
+	height: 400px;
+	display: block;
+}
+
+.service1{
+	width: 298px;
+	margin: 20px 10px;
+	padding:0 500px;
+	float: left;
+}
+
+.service1 p{
+	font-size: 15px;
+	color: #000000;
+	max-width: 250px;
+	font-weight: bold;
+
+}
+
+.services {
+	width:1333px;
+	margin:0 auto;
+}
+
+h1 {
+	font-size: 30px;
+	font-weight: bold;
+	background-color: #000000;
+	color: #ffffff;
+	padding: 10px 0;
+	margin: 0 -6px;
+}
+
+.image {
+	max-width: 200px;
+	margin:15px 0 0 0;
+
+}
+
+.heading {
+	text-align: center;
+	font-size:50px;
+	color:#000000;
+	margin:100px 0 50px 0;
+}
+
+#rodape_site {
+	width: 100%;
+	height: 250px;
+	background: #000000;
+	clear: both;
+	color: #FFFFFF;
+    text-align: left;
+    margin-top: 1000px;
+}
+
+#rodape_site li {
+    list-style-type: square;
+    
+}
+
+#rodape_site li a {
+    text-decoration: none;
+    color: white;
+    line-height: 40px;
+}
+
+
+.img_insta {
+	max-width: 40px;
+	float: right;
+	margin: 0 807px 0 0;
+
+}
+
+.imginsta2 {
+	text-align: center;
+}
+
+section {
+    text-align: center;
+    margin-top: 200px;
+    
+}
+
+h1 {
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
